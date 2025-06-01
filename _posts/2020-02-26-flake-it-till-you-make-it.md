@@ -11,7 +11,6 @@ author: Jota
 
 Montar uma **estratégia de marketing digital** pode parecer complicado, mas com os passos certos e um pouco de foco, você consegue construir uma presença online que realmente faz a diferença para o seu negócio. 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEA7e-TiL50JeItAJXkM_JS3fVF8KeAb7gyRTNbiqIYBN4-1FOEnNKxPXGeYtQ0WUK41LEeeBz9usNA6Vq9fb4ObxGFhd02KyvywmJLR-zyWBrQtOJN7kauWU6yND-JHwerHeS504Kk8TINmY8I9TQ42RQiCeZ7xnNXNowz7Q7DtOcqje06yzLTsE8arQ/s16000/marketing-digital.jpg)](https://www.blogger.com/blog/post/edit/2251017058169238086/1627807555128823297#)
 Esqueça soluções mirabolantes: aqui, a ideia é mostrar o caminho mais claro e direto para começar do zero.
 
 Vamos juntos? 
