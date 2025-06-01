@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Flake it till you make it
+title:  Como Montar uma Estratégia de Marketing Digital do Zero
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEA7e-TiL50JeItAJXkM_JS3fVF8KeAb7gyRTNbiqIYBN4-1FOEnNKxPXGeYtQ0WUK41LEeeBz9usNA6Vq9fb4ObxGFhd02KyvywmJLR-zyWBrQtOJN7kauWU6yND-JHwerHeS504Kk8TINmY8I9TQ42RQiCeZ7xnNXNowz7Q7DtOcqje06yzLTsE8arQ/s16000/marketing-digital.jpg
+thumbnail-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEA7e-TiL50JeItAJXkM_JS3fVF8KeAb7gyRTNbiqIYBN4-1FOEnNKxPXGeYtQ0WUK41LEeeBz9usNA6Vq9fb4ObxGFhd02KyvywmJLR-zyWBrQtOJN7kauWU6yND-JHwerHeS504Kk8TINmY8I9TQ42RQiCeZ7xnNXNowz7Q7DtOcqje06yzLTsE8arQ/s16000/marketing-digital.jpg
+share-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEA7e-TiL50JeItAJXkM_JS3fVF8KeAb7gyRTNbiqIYBN4-1FOEnNKxPXGeYtQ0WUK41LEeeBz9usNA6Vq9fb4ObxGFhd02KyvywmJLR-zyWBrQtOJN7kauWU6yND-JHwerHeS504Kk8TINmY8I9TQ42RQiCeZ7xnNXNowz7Q7DtOcqje06yzLTsE8arQ/s16000/marketing-digital.jpg
 tags: [books, test]
 author: Jota
 ---
